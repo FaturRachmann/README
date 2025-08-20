@@ -21,8 +21,8 @@
 ## 📚 About Me
 - 🎓 Currently studying **Information Systems**  
 - 💻 Working as **IT Support**  
-- 🌱 Learning about **servers, Docker, Zabbix, and open-source tools**  
-- 🚀 Building side projects in **web development & system automation**  
+- 🌱 Learning about **Servers, Docker, Zabbix, and open-source tools**  
+- 🚀 Building side projects in **Web Development & System Automation**  
 
 ---
 
